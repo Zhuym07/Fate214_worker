@@ -24,7 +24,7 @@ async function handleMessage(message, env) {
   // 1. 处理 /start
   if (text === "/start") {
     const welcomeMsg = `*🎉❤️情人节限定卡池❤️🎉*
-*向 @ckar_gacha_bot 编辑发送 “咱俩试试？”💌*
+*编辑发送 “咱俩试试？”💌*
 即有机会获得限定 ssr “好呀宝宝”💕
 
 ⭕️抽取日期：2026 年 2 月 14 日
